@@ -588,6 +588,15 @@ If you see the any error while running the command:
 
 Please, make sure all steps are using **the same** python version and that you have **conda installed**. Additionally, *mlflow* and *wandb* packages are crucial and should have the same version.
 
+## Usage
+
+GitHub-URL: `https://github.com/CarlSchwedes/nyc_airbnb_ml_pipeline.git`
+WANDB Project-URL: `https://wandb.ai/carl-schwedes-udcty/nyc_airbnb?nw=nwusercarlschwedes`
+Release-Version: `1.0.1`
+
+```
+mlflow run https://github.com/CarlSchwedes/nyc_airbnb_ml_pipeline.git -v 1.0.1 -P hydra_options="etl.sample='sample2.csv'"
+```
 
 ## License
 
