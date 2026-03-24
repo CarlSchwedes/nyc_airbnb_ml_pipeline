@@ -591,7 +591,9 @@ Please, make sure all steps are using **the same** python version and that you h
 ## Usage
 
 GitHub-URL: `https://github.com/CarlSchwedes/nyc_airbnb_ml_pipeline.git`
+
 WANDB Project-URL: `https://wandb.ai/carl-schwedes-udcty/nyc_airbnb?nw=nwusercarlschwedes`
+
 Release-Version: `1.0.1`
 
 ```
